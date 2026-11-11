@@ -14,7 +14,7 @@ public:
         }
 
         //step2:check first col
-        for(int i=0; i<n; i++){
+        for(int i=0 ;i<n; i++){
             if(matrix[i][0] == 0)
                firstCol = true;
         }
