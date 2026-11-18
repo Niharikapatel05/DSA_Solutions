@@ -18,7 +18,7 @@ public:
         int n = nums.size();
         int index = -1;
 
-        //step1: find first decrasing element from the right
+        //step1: find first decreasing element from the right
         for(int i=n-2; i>=0; i--){
             if(nums[i] < nums[i+1]){
                 index = i;
@@ -28,12 +28,12 @@ public:
 
         //step2: find the next greater element to swap with nums[index];
         if(index != -1){
-            for(int i=n-1; i>index; i--){
-                if(nums[i] > nums[index]){
-                    swap(nums, i, index);
-                    break;
-                }
+        for(int i=n-1; i>index; i--){
+            if(nums[i] > nums[index]){
+                swap(nums, i, index);
+                break;
             }
+        }
         }
         reverse(nums, index+1, n-1);
     }
