@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
