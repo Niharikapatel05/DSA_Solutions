@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0443-string-compression) |
 ## Sorting
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Niharikapatel05/DSA_Solutions/tree/master/0443-string-compression) |
 ## Sliding Window
